@@ -1,0 +1,5 @@
+idade = int(input("qual é sua idade?"))
+if idade >= 18:
+    print("vode é maior de idade, pode entrar")
+else:
+    print("vode é menor de idade")
